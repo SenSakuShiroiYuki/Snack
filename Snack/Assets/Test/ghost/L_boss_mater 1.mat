@@ -84,19 +84,22 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_11b205cc474a49e6ba229dfe15733e46: 8.87
-    - Vector1_20cb95fead3548089a695d19586a4a21: 0.1
+    - Vector1_11b205cc474a49e6ba229dfe15733e46: 32
+    - Vector1_20cb95fead3548089a695d19586a4a21: 0
     - Vector1_270F5843: 0
-    - Vector1_2BDF6FD9: 1
-    - Vector1_2FA10055: 0.5
+    - Vector1_2BDF6FD9: 5.44
+    - Vector1_2FA10055: 17.31
     - Vector1_36167b356ee14f30b752d7f3a129b842: 0
-    - Vector1_46F1304E: 0.2
+    - Vector1_46F1304E: -1.15
+    - Vector1_4edf178fbba347829521b4a4b2f642e9: 0
     - Vector1_5A500204: -1
     - Vector1_9736A6DE: 0.6
     - Vector1_B78A6A9E: 10
-    - Vector1_BBEA2355: 3
+    - Vector1_BBEA2355: -22.19
     - Vector1_DD913D3A: 20
+    - Vector1_d7384016e5cc4bc79eb2b18e962bdb9f: 0
     - Vector1_f170c2078fe145ec9ae1315ddd6aeb39: 999
+    - Vector1_f692ce37e4024d01aa4125bdd7951a68: 0
     - Vector1_fdef4d4afbf54811aacc28f994eea0e3: 1
     - _AlphaClip: 0
     - _Blend: 0
@@ -124,16 +127,16 @@ Material:
     - Color_16A3606C: {r: 1, g: 1, b: 1, a: 0}
     - Color_3B7981C2: {r: 4, g: 4, b: 4, a: 0}
     - Color_4CA403D3: {r: 4, g: 4, b: 4, a: 0}
-    - Color_6feef42ff420431ca8e9fd94a0d6107d: {r: 0.13397168, g: 0.13397168, b: 0.13397168, a: 0}
-    - Color_D9F05973: {r: 0.4056604, g: 0.4056604, b: 0.4056604, a: 0}
-    - Color_DB04B181: {r: 0.7830188, g: 0.7830188, b: 0.7830188, a: 0}
-    - Color_a5f5b7904dd946e492f38e8ed00bb1eb: {r: 5.3403144, g: 4.4814305, b: 1.1743097, a: 0}
+    - Color_6feef42ff420431ca8e9fd94a0d6107d: {r: 0.13207549, g: 0.13207549, b: 0.13207549, a: 0}
+    - Color_D9F05973: {r: 0, g: 1, b: 0.85479426, a: 0}
+    - Color_DB04B181: {r: 1, g: 1, b: 1, a: 0}
+    - Color_a5f5b7904dd946e492f38e8ed00bb1eb: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_acb3792d0def4076ac3608fefc040203: {r: 0.1, g: 0.1, b: 0, a: 0}
     - Vector2_b0eb8f3683c0421bbc97025a977e76eb: {r: 1.77, g: 1.34, b: 0, a: 0}
-    - Vector3_ef78835cffa24ec98ea56894ce88f730: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - Vector3_ef78835cffa24ec98ea56894ce88f730: {r: 0.72, g: 0.5, b: 0, a: 0}
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _EffectColor: {r: 1, g: 1, b: 1, a: 0}
+    - _EffectColor: {r: 1, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _L1_color: {r: 0.5, g: 0.47843137, b: 0.41960785, a: 0.99}
     - _L1_dir: {r: 0.3213938, g: 0.76604444, b: -0.5566705, a: 0}
